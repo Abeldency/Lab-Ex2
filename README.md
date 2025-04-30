@@ -1,1 +1,1 @@
-Always welcomes you to git hub
+Always welcomes you to git HUB
